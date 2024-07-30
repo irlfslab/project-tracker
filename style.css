@@ -22,7 +22,7 @@
 .container1{
     width: 100%;
     min-height: 100vh;
-    background-color: #ffe6b3;
+    background-color: #ffb366;
     padding: 30px;
 }
 
@@ -171,7 +171,7 @@
 }
 
 @media (max-width: 1080px){
-    .kanban{
+    .taskox{
         flex-direction: column;
         align-items: center;
     }
